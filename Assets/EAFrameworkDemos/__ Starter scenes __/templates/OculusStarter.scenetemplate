@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: OculusStarter
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 64ba9c93104874af3bf845b17c4a4e4d, type: 3}
+  templateName: EAFramework with Oculus
+  description: Start a new EAFramework scene with the base using  Oculus Integration
+    and a sample interactive cube.
+  preview: {fileID: 2800000, guid: 913227381c7e347abb666ab00e505fcd, type: 3}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: b8b1bab21654c46e3b077cc1a3e1ac92, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 64ff092377c6849fcb67bbac5d338b3a, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 82026cb669304dc4897d2c11d3753141, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 3fac3b9744290eb4c89b0e4ffd5fe085, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 100004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
