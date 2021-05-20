@@ -15,7 +15,7 @@ public class capsuleLight : MonoBehaviour
 
     void Update()
     {
-      energySphere.transform.localScale =;
+      
     }
 
 }
