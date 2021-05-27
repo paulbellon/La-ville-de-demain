@@ -1,10 +1,10 @@
 ﻿/*
- * 
- * 
+ *
+ *
  * Part of EAFramework
- * 
+ *
  * Created by: Pierre Rossel 2020-04-01
- * 
+ *
  */
 
 using System.Collections.Generic;
@@ -30,6 +30,8 @@ namespace EAFramework
         GameObject cam;
         Rigidbody rbCam;
 
+        public Rigidbody rb;
+
         private void Start()
         {
             // Get Camera Rig
@@ -46,7 +48,7 @@ namespace EAFramework
         override public void Execute(string eventName)
         {
 
-            Rigidbody rb = eventSource.GetComponentInParent<Rigidbody>();
+            rb = eventSource.GetComponentInParent<Rigidbody>();
 
             if (rbCam != null && rb != null)
             {
@@ -63,7 +65,7 @@ namespace EAFramework
 
                 if (bringToDistance > 0)
                 {
-                    rb.transform.position = cam.transform.TransformPoint(new Vector3(0, 0, bringToDistance));
+                    rb.transform.position = cam.transform.TransformPoint(new Vector3(0.1f, -0.1f, bringToDistance));
                 }
 
                 //FixedJoint joint = cam.AddComponent<FixedJoint>();

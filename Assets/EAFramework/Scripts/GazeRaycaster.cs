@@ -44,7 +44,9 @@ public class GazeRaycaster : MonoBehaviour
 
             s_gazedObjectLast = s_gazedObject;
 
-            bool hitSomething = Physics.Raycast(s_cam.transform.position, s_cam.transform.forward, out s_hit, 50f);
+            LayerMask mask = LayerMask.GetMask("Interactible");
+
+            bool hitSomething = Physics.Raycast(s_cam.transform.position, s_cam.transform.forward, out s_hit, 50f, mask);
             if (hitSomething)
             {
                 s_gazedObject = s_hit.collider.GetComponentInParent<GazeRaycaster>();

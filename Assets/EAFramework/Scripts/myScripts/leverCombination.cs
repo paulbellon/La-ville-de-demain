@@ -36,10 +36,5 @@ namespace EAFramework
           return;
         }
       }
-
-      void Update()
-      {
-        Debug.Log(leverCode);
-      }
   }
 }
