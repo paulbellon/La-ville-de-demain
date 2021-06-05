@@ -1,0 +1,1768 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'fr' Physical Memory: 16261 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programmes\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Travail/HEAD/M1/La ville de demain/Unity project
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51202
+Successfully changed project path to: D:/Travail/HEAD/M1/La ville de demain/Unity project
+D:/Travail/HEAD/M1/La ville de demain/Unity project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 84.82 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.71 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path D:/Programmes/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Travail/HEAD/M1/La ville de demain/Unity project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f50)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6611
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/Programmes/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programmes/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programmes/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programmes/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001008 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.45 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.356 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003221 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 79.81 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.59.0
+Mono: successfully reloaded assembly
+- Completed reload, in  4.806 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3943 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.1 MB.
+System memory in use after: 204.3 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 4377.
+Total: 3.261600 ms (FindLiveObjects: 0.404800 ms CreateObjectMapping: 0.279900 ms MarkObjects: 2.350600 ms  DeleteObjects: 0.225400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/UruDagalTest.fbx
+  artifactKey: Guid(83cc8df2b83771946beefe4964247231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalTest.fbx using Guid(83cc8df2b83771946beefe4964247231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66613674267c7a4bc92bb634cae6ea5c') in 1.555195 seconds
+  Import took 1.562961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.768316 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903121094171d406b67f1c55aa12d944') in 0.015552 seconds
+  Import took 0.021896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.157334 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903121094171d406b67f1c55aa12d944') in 0.011075 seconds
+  Import took 0.016679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.349490 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90da34d90843b122d5b265a263242a3b') in 0.015407 seconds
+  Import took 0.021111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.645672 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7fafe92af667986f4006b6cb2511ed') in 0.017944 seconds
+  Import took 0.023611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.010990 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1e02dcfc2af9fabb106feae83e94b6') in 0.032853 seconds
+  Import took 0.041486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003054 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1e02dcfc2af9fabb106feae83e94b6') in 0.012363 seconds
+  Import took 0.020253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.205530 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92d459a9d7764759a4215918e076b9d') in 0.013003 seconds
+  Import took 0.019088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.087788 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3139a4f32619ea767e089255f8b83bb0') in 0.012370 seconds
+  Import took 0.018787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.342466 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a10bd2564b6f0fe59815542420a1bd') in 0.016195 seconds
+  Import took 0.023176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.779349 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e189766bb3d0ee7071d2c93a7a25457c') in 0.010724 seconds
+  Import took 0.016998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.226084 seconds.
+  path: Assets/Models/roomtest.fbx
+  artifactKey: Guid(0dcfd5a86f3bad841b62ca5ee4e1ba1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/roomtest.fbx using Guid(0dcfd5a86f3bad841b62ca5ee4e1ba1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e926353b2b990f94b71c00095d1293c1') in 0.140885 seconds
+  Import took 0.146992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.043497 seconds.
+  path: Assets/Models/roomtest.fbx
+  artifactKey: Guid(0dcfd5a86f3bad841b62ca5ee4e1ba1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/roomtest.fbx using Guid(0dcfd5a86f3bad841b62ca5ee4e1ba1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe406fb3ae6cf658b7372de40480d7d7') in 0.112441 seconds
+  Import took 0.118448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.058785 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62e11d4d19032f3351c6b5d57498ffd') in 0.016962 seconds
+  Import took 0.023187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.332548 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0098da1d373c5340df6482b2594fd7e') in 0.014978 seconds
+  Import took 0.021030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000797 seconds.
+  path: Assets/Models/UruDagalWalls.fbx
+  artifactKey: Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls.fbx using Guid(12248fca8c779384da6e03d1a18fb4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0098da1d373c5340df6482b2594fd7e') in 0.136000 seconds
+  Import took 0.142352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.619176 seconds.
+  path: Assets/Models/UruDagalWalls2.fbx
+  artifactKey: Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls2.fbx using Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee6f68ab38e503133167e906d2c4ca2c') in 0.017386 seconds
+  Import took 0.023638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.947558 seconds.
+  path: Assets/Models/UruDagalWalls2.fbx
+  artifactKey: Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls2.fbx using Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac32b2d3fb1a993033ee01b63fb17ab') in 0.023645 seconds
+  Import took 0.030314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010258 seconds.
+  path: Assets/Models/UruDagalWalls2.fbx
+  artifactKey: Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls2.fbx using Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac32b2d3fb1a993033ee01b63fb17ab') in 0.047247 seconds
+  Import took 0.053317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.534969 seconds.
+  path: Assets/Models/UruDagalWalls2.fbx
+  artifactKey: Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls2.fbx using Guid(a9e7ee2af10cc5b41b189f0179c5eaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ccccf9042630a19fbbf4e0bee2135f9') in 0.014643 seconds
+  Import took 0.021951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1699.041714 seconds.
+  path: Assets/Models/UruDagalWalls3.fbx
+  artifactKey: Guid(a506dc6bb230e22488067a650043a08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls3.fbx using Guid(a506dc6bb230e22488067a650043a08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca7667eb5e76aebc7dbb4b8a86b089a') in 0.037150 seconds
+  Import took 0.044328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.165292 seconds.
+  path: Assets/Models/UruDagalWalls3.fbx
+  artifactKey: Guid(a506dc6bb230e22488067a650043a08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls3.fbx using Guid(a506dc6bb230e22488067a650043a08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dbee341c569dbc24fd0b16a710fc7d') in 0.013965 seconds
+  Import took 0.021520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.638434 seconds.
+  path: Assets/Models/UruDagalWalls4.fbx
+  artifactKey: Guid(557d161ce150116478d87167f083b6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls4.fbx using Guid(557d161ce150116478d87167f083b6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754da815fec6466eb32105359c94095d') in 0.022794 seconds
+  Import took 0.029262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006141 seconds.
+  path: Assets/Models/UruDagalWalls4.fbx
+  artifactKey: Guid(557d161ce150116478d87167f083b6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls4.fbx using Guid(557d161ce150116478d87167f083b6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754da815fec6466eb32105359c94095d') in 0.044328 seconds
+  Import took 0.050031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.120684 seconds.
+  path: Assets/Models/UruDagalWalls4.fbx
+  artifactKey: Guid(557d161ce150116478d87167f083b6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls4.fbx using Guid(557d161ce150116478d87167f083b6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838f973a8ecafc2794bcfbfec8d76e4b') in 0.017367 seconds
+  Import took 0.025237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.594485 seconds.
+  path: Assets/Models/UruDagalWalls5.fbx
+  artifactKey: Guid(842418de6ea11f0439a70e5a31cdb0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls5.fbx using Guid(842418de6ea11f0439a70e5a31cdb0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2e535f8395c2b127c4f2197673ae78') in 0.016436 seconds
+  Import took 0.022634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.796939 seconds.
+  path: Assets/Models/UruDagalWalls5.fbx
+  artifactKey: Guid(842418de6ea11f0439a70e5a31cdb0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls5.fbx using Guid(842418de6ea11f0439a70e5a31cdb0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8054015ff11eaef780466bc2b3c920c') in 0.017159 seconds
+  Import took 0.024564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.609719 seconds.
+  path: Assets/Models/UruDagalWalls6.fbx
+  artifactKey: Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls6.fbx using Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2882cdfbe4a4795a91430f3df1e4c7d2') in 0.030481 seconds
+  Import took 0.037007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002857 seconds.
+  path: Assets/Models/UruDagalWalls6.fbx
+  artifactKey: Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls6.fbx using Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2882cdfbe4a4795a91430f3df1e4c7d2') in 0.032660 seconds
+  Import took 0.039080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.733796 seconds.
+  path: Assets/Models/UruDagalWalls6.fbx
+  artifactKey: Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls6.fbx using Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704964db40c451e0704442dcc949de61') in 0.011802 seconds
+  Import took 0.018693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011464 seconds.
+  path: Assets/Models/UruDagalWalls6.fbx
+  artifactKey: Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls6.fbx using Guid(356dea71c00732f4cafb49d30cc44af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704964db40c451e0704442dcc949de61') in 0.020474 seconds
+  Import took 0.026918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.256473 seconds.
+  path: Assets/Models/UruDagalWalls7.fbx
+  artifactKey: Guid(dc6ffa814e3707240afd6c2895d40dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls7.fbx using Guid(dc6ffa814e3707240afd6c2895d40dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f952df050533e34fc4ed8a76977aed') in 0.016854 seconds
+  Import took 0.023667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.588222 seconds.
+  path: Assets/Models/UruDagalWalls7.fbx
+  artifactKey: Guid(dc6ffa814e3707240afd6c2895d40dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/UruDagalWalls7.fbx using Guid(dc6ffa814e3707240afd6c2895d40dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a170d5af4e586499bb7d3661a4b5f1e8') in 0.013989 seconds
+  Import took 0.020657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.601541 seconds.
+  path: Assets/Models/Exterior
+  artifactKey: Guid(b56ee4c62d53e274ab64171b0661df76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior using Guid(b56ee4c62d53e274ab64171b0661df76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cf5f619beeaf3dd090007c6c8c63c5') in 0.007898 seconds
+  Import took 0.052141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.344866 seconds.
+  path: Assets/Models/Exterior/UruDagalBridges.fbx
+  artifactKey: Guid(1f24c74a7c847b542be8f52bf59e1f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalBridges.fbx using Guid(1f24c74a7c847b542be8f52bf59e1f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005cbbc5335a3e45474c1afd2ba2edc0') in 0.027886 seconds
+  Import took 0.034967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005622 seconds.
+  path: Assets/Models/Exterior/UruDagalBridges.fbx
+  artifactKey: Guid(1f24c74a7c847b542be8f52bf59e1f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalBridges.fbx using Guid(1f24c74a7c847b542be8f52bf59e1f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005cbbc5335a3e45474c1afd2ba2edc0') in 0.041299 seconds
+  Import took 0.047261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.335064 seconds.
+  path: Assets/Models/Exterior/UruDagalBridges.fbx
+  artifactKey: Guid(1f24c74a7c847b542be8f52bf59e1f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalBridges.fbx using Guid(1f24c74a7c847b542be8f52bf59e1f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78fc2dcf3f1e4ae2dad8af0b3bb3bdd') in 0.016626 seconds
+  Import took 0.022474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.083774 seconds.
+  path: Assets/Models/Exterior/UruDagalPlatforms.fbx
+  artifactKey: Guid(3c17346b719fe3c439a745247ef3c1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalPlatforms.fbx using Guid(3c17346b719fe3c439a745247ef3c1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1515b400ca19a8c6c412191ae5463517') in 0.019428 seconds
+  Import took 0.026758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.084901 seconds.
+  path: Assets/Models/Exterior/UruDagalPlatforms.fbx
+  artifactKey: Guid(3c17346b719fe3c439a745247ef3c1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalPlatforms.fbx using Guid(3c17346b719fe3c439a745247ef3c1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0176312601fef88a69df18b50cf1446c') in 0.040287 seconds
+  Import took 0.046102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.462311 seconds.
+  path: Assets/Models/Exterior/UruDagalPipelines.fbx
+  artifactKey: Guid(1949f0e8cca74664a87f7cba5279a137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalPipelines.fbx using Guid(1949f0e8cca74664a87f7cba5279a137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb75d22d16c701212707de0d9134367') in 0.077554 seconds
+  Import took 0.084103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.753170 seconds.
+  path: Assets/Models/Exterior/UruDagalPipelines.fbx
+  artifactKey: Guid(1949f0e8cca74664a87f7cba5279a137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalPipelines.fbx using Guid(1949f0e8cca74664a87f7cba5279a137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74efa39e0aedf730dbc031fe2417b75a') in 0.040002 seconds
+  Import took 0.046549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.936788 seconds.
+  path: Assets/Models/Exterior/UruDagalCables.fbx
+  artifactKey: Guid(feb72521d514e2346a9e93903a8aad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalCables.fbx using Guid(feb72521d514e2346a9e93903a8aad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57abdf2ca0d9cfe13cfafd6a62b9edf') in 0.026197 seconds
+  Import took 0.032346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004961 seconds.
+  path: Assets/Models/Exterior/UruDagalCables.fbx
+  artifactKey: Guid(feb72521d514e2346a9e93903a8aad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalCables.fbx using Guid(feb72521d514e2346a9e93903a8aad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57abdf2ca0d9cfe13cfafd6a62b9edf') in 0.012706 seconds
+  Import took 0.019091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.352674 seconds.
+  path: Assets/Models/Exterior/UruDagalCables.fbx
+  artifactKey: Guid(feb72521d514e2346a9e93903a8aad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalCables.fbx using Guid(feb72521d514e2346a9e93903a8aad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289393a62e6b9b8973cb16aab14f5e42') in 0.032339 seconds
+  Import took 0.039449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.321527 seconds.
+  path: Assets/Models/Exterior/UruDagalEntrances.fbx
+  artifactKey: Guid(e4e62efc0641abf46a9f5c635afd70f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalEntrances.fbx using Guid(e4e62efc0641abf46a9f5c635afd70f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2031c6d1c948bc1edc2b0d33950c4f6f') in 0.037911 seconds
+  Import took 0.044719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.457510 seconds.
+  path: Assets/Models/Exterior/UruDagalEntrances.fbx
+  artifactKey: Guid(e4e62efc0641abf46a9f5c635afd70f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalEntrances.fbx using Guid(e4e62efc0641abf46a9f5c635afd70f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b710d47cd48c44626592fc37ffb25e1') in 0.028012 seconds
+  Import took 0.034139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.672277 seconds.
+  path: Assets/EAFrameworkDemos/__ Starter scenes __
+  artifactKey: Guid(e0dfa3a3908134c76a803c5994433fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EAFrameworkDemos/__ Starter scenes __ using Guid(e0dfa3a3908134c76a803c5994433fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f30dff6b85e7ac0fca0bd6758084e64') in 0.007000 seconds
+  Import took 0.013642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.515521 seconds.
+  path: Assets/EAFrameworkDemos/Basic/Materials
+  artifactKey: Guid(6637678616edf4dfca361240e7faed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EAFrameworkDemos/Basic/Materials using Guid(6637678616edf4dfca361240e7faed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2215ef2d9b45097b4846c45bd0e55558') in 0.084437 seconds
+  Import took 0.090647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002379 seconds.
+  path: Assets/EAFrameworkDemos/Basic/Materials/Ground.mat
+  artifactKey: Guid(c502b0f93f98a4b2a8322ed3dec6aca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EAFrameworkDemos/Basic/Materials/Ground.mat using Guid(c502b0f93f98a4b2a8322ed3dec6aca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a02de24cf24fed6f49d16f7f104f36') in 0.053726 seconds
+  Import took 0.060667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.753285 seconds.
+  path: Assets/EAFrameworkDemos/Basic/Animations
+  artifactKey: Guid(b21449975498e4fa18b6538cc0f069cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EAFrameworkDemos/Basic/Animations using Guid(b21449975498e4fa18b6538cc0f069cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27fd54d1e65d30bd5df6fc7f651676c7') in 0.015430 seconds
+  Import took 0.021524 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.9 MB.
+System memory in use after: 192.1 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4455.
+Total: 3.337300 ms (FindLiveObjects: 0.436600 ms CreateObjectMapping: 0.298400 ms MarkObjects: 2.516000 ms  DeleteObjects: 0.085100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 142.838288 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall.fbx
+  artifactKey: Guid(cebb78df0c2b7274da5e1f2a58638ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall.fbx using Guid(cebb78df0c2b7274da5e1f2a58638ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5003600a4fc7793f15c02d129528035f') in 0.167660 seconds
+  Import took 0.174224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.702401 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall.fbx
+  artifactKey: Guid(cebb78df0c2b7274da5e1f2a58638ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall.fbx using Guid(cebb78df0c2b7274da5e1f2a58638ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a124fa68dd02e81bf5e081782bd2ece0') in 0.014778 seconds
+  Import took 0.022152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017147 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall.fbx
+  artifactKey: Guid(cebb78df0c2b7274da5e1f2a58638ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall.fbx using Guid(cebb78df0c2b7274da5e1f2a58638ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a124fa68dd02e81bf5e081782bd2ece0') in 0.015761 seconds
+  Import took 0.022116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 347.366189 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525c07e865527c77c6f599830729dc3a') in 0.031929 seconds
+  Import took 0.037935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001608 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525c07e865527c77c6f599830729dc3a') in 0.039282 seconds
+  Import took 0.047200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.115644 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313a04e63f5c83b56093ab9ce56f2b29') in 0.044237 seconds
+  Import took 0.049885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001266 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313a04e63f5c83b56093ab9ce56f2b29') in 0.009765 seconds
+  Import took 0.015905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.589483 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b501abe2316178774a4c6c79daf100') in 0.015904 seconds
+  Import took 0.022962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.637080 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0152f8c66ced1c94ab224095191469a') in 0.027808 seconds
+  Import took 0.035146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.514785 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c7c1af5d5623a7f69d262e037d8fcd5') in 0.034049 seconds
+  Import took 0.041115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c7c1af5d5623a7f69d262e037d8fcd5') in 0.042440 seconds
+  Import took 0.048681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.554174 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50b8ce0714012410256fc8aaf5d62df') in 0.020659 seconds
+  Import took 0.112934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.277388 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae575699942b459fd157d91fa2a8de4') in 0.019228 seconds
+  Import took 0.026377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.679251 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688069ecb8bb77b622667540756f6692') in 0.039145 seconds
+  Import took 0.045815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002958 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688069ecb8bb77b622667540756f6692') in 0.032493 seconds
+  Import took 0.038178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.283225 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9017c63c31b8dfbbd6a6d153215cd2ea') in 0.031425 seconds
+  Import took 0.038297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003481 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9017c63c31b8dfbbd6a6d153215cd2ea') in 0.033344 seconds
+  Import took 0.040048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.253389 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e67632ca73cd1941ac1c1ac57c529dd') in 0.033511 seconds
+  Import took 0.040382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.171434 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ed25ba29eb715d936a83f5c4c69416') in 0.035969 seconds
+  Import took 0.042039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.092927 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2372f28285b42caf7bced5f61ee49e0') in 0.021531 seconds
+  Import took 0.028316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.864177 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a8f1bbef35ca557f6bfd2a28e0c1fd1') in 0.025546 seconds
+  Import took 0.031799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.090217 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1e25f766f19e835d349184c5eb90a8') in 0.012605 seconds
+  Import took 0.019906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 496.993699 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77f6dfcb6dae17d6e46d3f27db504ca') in 0.163346 seconds
+  Import took 0.182984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.161202 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ce70a9ac91172cfd5c823323d5799e') in 0.014141 seconds
+  Import took 0.020076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018746 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ce70a9ac91172cfd5c823323d5799e') in 0.032405 seconds
+  Import took 0.038391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.361335 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall2.fbx
+  artifactKey: Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall2.fbx using Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83167866006cc8cc55e78028a34e6863') in 0.028585 seconds
+  Import took 0.036003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003980 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall2.fbx
+  artifactKey: Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall2.fbx using Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83167866006cc8cc55e78028a34e6863') in 0.038315 seconds
+  Import took 0.046065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.187683 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall2.fbx
+  artifactKey: Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall2.fbx using Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcc9dc756bc405c1b6c6a06a5478192') in 0.048065 seconds
+  Import took 0.053754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.016456 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall3.fbx
+  artifactKey: Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall3.fbx using Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e492ed173ec0f54d69ac567b67da857b') in 0.026984 seconds
+  Import took 0.033445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.710125 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall3.fbx
+  artifactKey: Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall3.fbx using Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7e5830e61014e7045d73afc9832f83') in 0.018815 seconds
+  Import took 0.024630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.575120 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall3.fbx
+  artifactKey: Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall3.fbx using Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9b47cacf3a3dbb4f659d1b8812d07a') in 0.019843 seconds
+  Import took 0.026607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.575814 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall3.fbx
+  artifactKey: Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall3.fbx using Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b0934edbce97dba3c5ced0be594c35') in 0.018136 seconds
+  Import took 0.024421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.645801 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall4.fbx
+  artifactKey: Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall4.fbx using Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6072ce325b4808115a105b3d2bcde6') in 0.023552 seconds
+  Import took 0.029867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.290432 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall4.fbx
+  artifactKey: Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall4.fbx using Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7931cbe2a77edeeeaa35743a29ab77b') in 0.153966 seconds
+  Import took 0.159681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.231889 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall5.fbx
+  artifactKey: Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall5.fbx using Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e18b7c31a6bf48fc6a1dd15a62609f5') in 0.027251 seconds
+  Import took 0.034183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.283664 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall5.fbx
+  artifactKey: Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall5.fbx using Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc4a948d24c548e0df4142d34d06618') in 0.045878 seconds
+  Import took 0.051534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.005784 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall6.fbx
+  artifactKey: Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall6.fbx using Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f6c147939c3dd708aa9426e877c46a') in 0.017481 seconds
+  Import took 0.023982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.950280 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall6.fbx
+  artifactKey: Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall6.fbx using Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72128d18043eb5919c008a2b5138ee27') in 0.013021 seconds
+  Import took 0.019664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.815662 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall7.fbx
+  artifactKey: Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall7.fbx using Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7cf6ac473e8371cf8d27b34bf86fae9') in 0.083887 seconds
+  Import took 0.102954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.958974 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall7.fbx
+  artifactKey: Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall7.fbx using Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b00ce8f31a3a5a6f5cec653e1b87a8f') in 0.036091 seconds
+  Import took 0.041822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.001451 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebc9b8cb594179d988b4a8e137f3428') in 0.033256 seconds
+  Import took 0.040191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002634 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebc9b8cb594179d988b4a8e137f3428') in 0.159002 seconds
+  Import took 0.164749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.541913 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bdc8baad600bf4c1535c31a4d79fb8c') in 0.076129 seconds
+  Import took 0.081918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.069870 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef135044add6911f6b2541d12bbbb6c') in 0.028500 seconds
+  Import took 0.035319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003009 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef135044add6911f6b2541d12bbbb6c') in 0.016985 seconds
+  Import took 0.024323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.857394 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3605a4d71b6a8343b88eb47ea4a87f4b') in 0.010883 seconds
+  Import took 0.016717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.942562 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f2364a273e357a025eb862b4de70a1') in 0.019964 seconds
+  Import took 0.027810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.579957 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01fcc370bcca8908da5f6dfda1bae2c') in 0.017471 seconds
+  Import took 0.023712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.150611 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall9.fbx
+  artifactKey: Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall9.fbx using Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132dc87b0d6310395cc4853e04a7012f') in 0.019017 seconds
+  Import took 0.025135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.286503 seconds.
+  path: Assets/Models/Exterior/UruDagalTohaSmall9.fbx
+  artifactKey: Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/UruDagalTohaSmall9.fbx using Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a881a8dcab6c46f7f8131c3a601e4ef') in 0.014341 seconds
+  Import took 0.020475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.389192 seconds.
+  path: Assets/Models/Exterior/Walls
+  artifactKey: Guid(1520fe2febede984092b661d059f1e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Walls using Guid(1520fe2febede984092b661d059f1e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e73b0810a45cf354da35f1246c1d8f') in 0.006377 seconds
+  Import took 0.012367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002651 seconds.
+  path: Assets/Models/Exterior/Walls
+  artifactKey: Guid(1520fe2febede984092b661d059f1e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Walls using Guid(1520fe2febede984092b661d059f1e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e73b0810a45cf354da35f1246c1d8f') in 0.002127 seconds
+  Import took 0.008220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.246466 seconds.
+  path: Assets/Models/Exterior/Toha 1
+  artifactKey: Guid(2e9858bb788315f4a875136e21a00365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1 using Guid(2e9858bb788315f4a875136e21a00365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128d21892f73a46c9095ec77eedf4965') in 0.006295 seconds
+  Import took 0.012016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.833913 seconds.
+  path: Assets/Models/Exterior/Toha Core
+  artifactKey: Guid(20201c4d370e626459de88f552745038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core using Guid(20201c4d370e626459de88f552745038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62117603990d9e6e13dbb7fe5d057987') in 0.006698 seconds
+  Import took 0.012535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 324.460343 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72ee216a7fa247f1f4c4154eba6e22f') in 0.013206 seconds
+  Import took 0.020237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall6.fbx
+  artifactKey: Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall6.fbx using Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922bc4eb22a36cffd68f599064f99e0b') in 0.016089 seconds
+  Import took 0.022110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ad701ec3bd137153209828a9a0e6d5') in 0.028101 seconds
+  Import took 0.048944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall7.fbx
+  artifactKey: Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall7.fbx using Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce6be0b241d01553d3a16c4b17c224d') in 0.036084 seconds
+  Import took 0.042859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall5.fbx
+  artifactKey: Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall5.fbx using Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191c45214e9a56ab52e5cb8e2635eea7') in 0.056049 seconds
+  Import took 0.061706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall2.fbx
+  artifactKey: Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall2.fbx using Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba848e314a582e140abaab410e7143f') in 0.022203 seconds
+  Import took 0.028354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall3.fbx
+  artifactKey: Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall3.fbx using Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56562753450f71ca17dded982520265') in 0.019247 seconds
+  Import took 0.025084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall9.fbx
+  artifactKey: Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall9.fbx using Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1272209bea9f21ad30cdf358deca1c7c') in 0.017080 seconds
+  Import took 0.022898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall4.fbx
+  artifactKey: Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall4.fbx using Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7531f35779b90bfd4fe55a3bf67fd713') in 0.010794 seconds
+  Import took 0.018370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.347375 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4190df8c22a75b3e09efcb5c059224') in 0.043717 seconds
+  Import took 0.049435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.433044 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a730569e7d44faac4b5bd52d13657885') in 0.026092 seconds
+  Import took 0.031834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.436030 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a762583878a70c93d84f49e0081e254c') in 0.020827 seconds
+  Import took 0.027222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.992709 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4162a244f15b70150cb43f4e1ae87d52') in 0.014208 seconds
+  Import took 0.020661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005039 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4162a244f15b70150cb43f4e1ae87d52') in 0.023571 seconds
+  Import took 0.029633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.981739 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f249cf54322942c7a081bc2ff8a938') in 0.015615 seconds
+  Import took 0.021529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.466582 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7312ebd4ba198388a747f51881cdac') in 0.014304 seconds
+  Import took 0.020280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011595 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7312ebd4ba198388a747f51881cdac') in 0.021317 seconds
+  Import took 0.027393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.591096 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300d0bfefc3efed66167c34a7fa57867') in 0.014821 seconds
+  Import took 0.020922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002582 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300d0bfefc3efed66167c34a7fa57867') in 0.014912 seconds
+  Import took 0.020979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.627014 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd7415788f48c6407eee94075151f6f') in 0.016607 seconds
+  Import took 0.022393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002003 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd7415788f48c6407eee94075151f6f') in 0.022963 seconds
+  Import took 0.029454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.178346 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ecf88af944e0ca83109b8dd8b18633') in 0.019328 seconds
+  Import took 0.025221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.818481 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3c9fbd4b9b87490615668df21a1ff1') in 0.017514 seconds
+  Import took 0.023415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.990703 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx
+  artifactKey: Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall1.fbx using Guid(198e06efc9e3dfc408e48de2eb101491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1f581baa5875f0f473e6db6e807449') in 0.020624 seconds
+  Import took 0.026585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.208675 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall2.fbx
+  artifactKey: Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall2.fbx using Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e82e39d42e14973fa1bfe52d6c3901') in 0.027141 seconds
+  Import took 0.033504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall2.fbx
+  artifactKey: Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall2.fbx using Guid(6733b135a90c66e43bd72d1fddd9d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e82e39d42e14973fa1bfe52d6c3901') in 0.064541 seconds
+  Import took 0.070324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.637459 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall3.fbx
+  artifactKey: Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall3.fbx using Guid(707d30464913e6040a349634e62baf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833f6744108418eccc98c2dffcd15ad5') in 0.018044 seconds
+  Import took 0.024937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.355895 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall4.fbx
+  artifactKey: Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall4.fbx using Guid(69b0326512080e64e8840de37c93c84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8757c3440fdc6d3f245e358d70f8739') in 0.021577 seconds
+  Import took 0.027460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.610435 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall5.fbx
+  artifactKey: Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall5.fbx using Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2cdad452cfa7b68bb862b2a20dda94') in 0.021189 seconds
+  Import took 0.027023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003689 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall5.fbx
+  artifactKey: Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall5.fbx using Guid(2796efdf0236877478a87fc040d636f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2cdad452cfa7b68bb862b2a20dda94') in 0.020196 seconds
+  Import took 0.026575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.418961 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall6.fbx
+  artifactKey: Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall6.fbx using Guid(cb84b52e851c26f4687ddf9c5d82c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d86d0a35392f96eae315a449c972c2a') in 0.025559 seconds
+  Import took 0.033101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.119966 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall7.fbx
+  artifactKey: Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall7.fbx using Guid(36d3440fd89547040941f6ce756b2e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cbe4d99ee68b42cd566c4b08376140') in 0.016055 seconds
+  Import took 0.022577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.635229 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall8.fbx
+  artifactKey: Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall8.fbx using Guid(328f252e09bfc994bad81b51ebed2443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e2cdb258f4e19477d43680f97daa5e') in 0.044110 seconds
+  Import took 0.049904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.403008 seconds.
+  path: Assets/Models/Exterior/Toha 1/UruDagalTohaSmall9.fbx
+  artifactKey: Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha 1/UruDagalTohaSmall9.fbx using Guid(d17e40748c987c44caef8c508197738f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb2dd9a536b9b1c8bf91121f8e2508b') in 0.051861 seconds
+  Import took 0.057575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 264.709209 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc935714c777ce7413627a98e3c1edb') in 0.018179 seconds
+  Import took 0.025250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.557020 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08221a0c3c1459b7fd2cdd0e72088c13') in 0.030869 seconds
+  Import took 0.036736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002681 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08221a0c3c1459b7fd2cdd0e72088c13') in 0.757601 seconds
+  Import took 0.763577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.902782 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1726bbe9bb9681effb99e1abeabef893') in 0.009701 seconds
+  Import took 0.016472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.693421 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad2f92a2764c1f1e3618e2d04a2988b') in 0.014380 seconds
+  Import took 0.020824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.658999 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b4054eb03bc89da137833ef47eb6c47') in 0.050471 seconds
+  Import took 0.056256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.030867 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb1b59f661dca345a269490c813c221') in 0.014405 seconds
+  Import took 0.020443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.476573 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e1541a29dd909d187d91177c45f1ff') in 0.014997 seconds
+  Import took 0.021645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.434552 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c3889810557d1603a4fa46bcf0e381') in 0.018053 seconds
+  Import took 0.024397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009866 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c3889810557d1603a4fa46bcf0e381') in 0.016907 seconds
+  Import took 0.022595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.749143 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be459805e33724b5a59358fbf6e9462') in 0.024007 seconds
+  Import took 0.029764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007945 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be459805e33724b5a59358fbf6e9462') in 0.058611 seconds
+  Import took 0.065637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.322784 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore3.fbx
+  artifactKey: Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore3.fbx using Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7050b25d72df9affc7e9700ce15e084d') in 0.020636 seconds
+  Import took 0.028424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.850275 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore3.fbx
+  artifactKey: Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore3.fbx using Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6252ed7f23f20a3b1a669b067e830563') in 0.014524 seconds
+  Import took 0.020477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.558483 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72bab7c17046dcadfcba51d14ac16a54') in 0.014310 seconds
+  Import took 0.020220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore3.fbx
+  artifactKey: Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore3.fbx using Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1997b64b9550dd25c7b1db131a945ce4') in 0.028407 seconds
+  Import took 0.034624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore4.fbx
+  artifactKey: Guid(852e207eaf86c204187b90f9e5fb293f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore4.fbx using Guid(852e207eaf86c204187b90f9e5fb293f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2d1d5c763cb967154d754cc2d01580') in 0.021074 seconds
+  Import took 0.026890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c445916f763cbda24320298718169c92') in 0.021418 seconds
+  Import took 0.048177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.550717 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore1.fbx
+  artifactKey: Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore1.fbx using Guid(6659736d10f302a43ab2853d079178b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d2a939ae025a2e3abe9edfdddcadb7') in 0.042442 seconds
+  Import took 0.048818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.162207 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore2.fbx
+  artifactKey: Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore2.fbx using Guid(28c3a9447e2427e40addb237d8fd2bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1829d4420362dc332f0e7ce8b562d7f') in 0.019042 seconds
+  Import took 0.025356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.006044 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore3.fbx
+  artifactKey: Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore3.fbx using Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf90cce3541a7f3748804339e0a884e') in 0.016707 seconds
+  Import took 0.022758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.649095 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore3.fbx
+  artifactKey: Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore3.fbx using Guid(9c3e19c51f4521b429fdef71ebbfc4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7574c24ba759212efa6b672593f52c64') in 0.038675 seconds
+  Import took 0.044298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.608093 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore4.fbx
+  artifactKey: Guid(852e207eaf86c204187b90f9e5fb293f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore4.fbx using Guid(852e207eaf86c204187b90f9e5fb293f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37404718988fa045a018658c056e5ee0') in 0.025769 seconds
+  Import took 0.031597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.761157 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951e6b9409e14b1dcb0fa9a0a4072cd3') in 0.017970 seconds
+  Import took 0.025165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.020095 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d551c6f278876a64f2cf6ff04ec9006') in 0.027081 seconds
+  Import took 0.032917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.731295 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b66a971787baa7e180e1b3ed49de566') in 0.011435 seconds
+  Import took 0.101949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 638.127791 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9b15abcda242e4b6cc4cfea615bf7a') in 0.020377 seconds
+  Import took 0.027191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.257428 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5744732d54aa41fb9a9f5d5fcb90b9') in 0.021658 seconds
+  Import took 0.029236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004910 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5744732d54aa41fb9a9f5d5fcb90b9') in 0.050577 seconds
+  Import took 0.058890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.524641 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba161a3a15348ae19e391403bcfb4bd') in 0.012425 seconds
+  Import took 0.018441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba161a3a15348ae19e391403bcfb4bd') in 0.009318 seconds
+  Import took 0.015156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.320981 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501580f0950cb13c75a5797f93511229') in 0.018506 seconds
+  Import took 0.024276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.914733 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa759dd17996709c46ee67adb5699798') in 0.017752 seconds
+  Import took 0.025249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.131031 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2671ecf5bba776aee9bb93e5b34871') in 0.013866 seconds
+  Import took 0.019891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.900944 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore5.fbx
+  artifactKey: Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore5.fbx using Guid(90d7216273ec5e642b48a1a6f50c4c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761325873767dd5c91fe7625e3fe033d') in 0.031204 seconds
+  Import took 0.037844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.428612 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore6.fbx
+  artifactKey: Guid(56618edae001f6643b833946f7600a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore6.fbx using Guid(56618edae001f6643b833946f7600a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5495941da1f38dfc5674ea77d38ddeea') in 0.012605 seconds
+  Import took 0.018873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.272338 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore6.fbx
+  artifactKey: Guid(56618edae001f6643b833946f7600a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore6.fbx using Guid(56618edae001f6643b833946f7600a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc791c381a319c9db83ea7d624f9631') in 0.019537 seconds
+  Import took 0.025799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.220275 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore7.fbx
+  artifactKey: Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore7.fbx using Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eece56f89d455c40c854b2153d2efd07') in 0.023667 seconds
+  Import took 0.030327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007018 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore7.fbx
+  artifactKey: Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore7.fbx using Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eece56f89d455c40c854b2153d2efd07') in 0.019334 seconds
+  Import took 0.025853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.507969 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore7.fbx
+  artifactKey: Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore7.fbx using Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45109c3cd0b60bde5d9b7d05d785dad4') in 0.015729 seconds
+  Import took 0.025541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013478 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore7.fbx
+  artifactKey: Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore7.fbx using Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45109c3cd0b60bde5d9b7d05d785dad4') in 0.026127 seconds
+  Import took 0.032499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.701141 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore8.fbx
+  artifactKey: Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore8.fbx using Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce4209d8da06806664e32ea54b2a839') in 0.014941 seconds
+  Import took 0.022533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.386380 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore8.fbx
+  artifactKey: Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore8.fbx using Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f073bda7ec8a74a50f01c7295481c1fd') in 0.035089 seconds
+  Import took 0.041545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.427881 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore7.fbx
+  artifactKey: Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore7.fbx using Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2c142eb43f3a11bc11c6310061c342') in 0.012260 seconds
+  Import took 0.018024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore8.fbx
+  artifactKey: Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore8.fbx using Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e9fe13c76116c93e339d6f1586e9d5') in 0.028380 seconds
+  Import took 0.035746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.791334 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore7.fbx
+  artifactKey: Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore7.fbx using Guid(b050328fe705d254db55efbdaf838261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b60768165b3adf49ad51e1e8fbc48d') in 0.018389 seconds
+  Import took 0.024556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.662157 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore8.fbx
+  artifactKey: Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore8.fbx using Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ea96ad96e44a0b8be6d723c7a26771') in 0.027260 seconds
+  Import took 0.033784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore8.fbx
+  artifactKey: Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore8.fbx using Guid(f1fe6a0da8e5d4a4d9117eda3c0c024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ea96ad96e44a0b8be6d723c7a26771') in 0.048265 seconds
+  Import took 0.054027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.162692 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore9.fbx
+  artifactKey: Guid(f21de21866b686d4babda4b50a1dd64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore9.fbx using Guid(f21de21866b686d4babda4b50a1dd64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe8c3267c1c234fc2046c2c77705912') in 0.017401 seconds
+  Import took 0.023336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.054986 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore9.fbx
+  artifactKey: Guid(f21de21866b686d4babda4b50a1dd64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore9.fbx using Guid(f21de21866b686d4babda4b50a1dd64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa8e1b0f836a366a43007f2eef7d1ec') in 0.050162 seconds
+  Import took 0.055996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.480489 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore10.fbx
+  artifactKey: Guid(9a977a00b03f52a43bfb3e4dc13eb5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore10.fbx using Guid(9a977a00b03f52a43bfb3e4dc13eb5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd794cfb7b684d282ebb4c4a36796836') in 0.017443 seconds
+  Import took 0.024893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.095071 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore10.fbx
+  artifactKey: Guid(9a977a00b03f52a43bfb3e4dc13eb5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore10.fbx using Guid(9a977a00b03f52a43bfb3e4dc13eb5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf9750e75eb5555f068c87e5438e257') in 0.042539 seconds
+  Import took 0.048254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.032658 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore11.fbx
+  artifactKey: Guid(ce2e08ed500720641afa54dfaa5c1dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore11.fbx using Guid(ce2e08ed500720641afa54dfaa5c1dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd201d167430e99d8634f6d64949193') in 0.017876 seconds
+  Import took 0.024507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.632931 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore11.fbx
+  artifactKey: Guid(ce2e08ed500720641afa54dfaa5c1dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore11.fbx using Guid(ce2e08ed500720641afa54dfaa5c1dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a74b7b42f5ba8dab0db0a3fa4e8920') in 0.016383 seconds
+  Import took 0.022900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.369822 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore12.fbx
+  artifactKey: Guid(ac7f57b6c6f04904a814bccb390939ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore12.fbx using Guid(ac7f57b6c6f04904a814bccb390939ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc54fe4fad75791d5b0b8519b0fda904') in 0.021069 seconds
+  Import took 0.027521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005117 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore12.fbx
+  artifactKey: Guid(ac7f57b6c6f04904a814bccb390939ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore12.fbx using Guid(ac7f57b6c6f04904a814bccb390939ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc54fe4fad75791d5b0b8519b0fda904') in 0.014685 seconds
+  Import took 0.021335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.732397 seconds.
+  path: Assets/Models/Exterior/Toha Core/TohaCore12.fbx
+  artifactKey: Guid(ac7f57b6c6f04904a814bccb390939ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/TohaCore12.fbx using Guid(ac7f57b6c6f04904a814bccb390939ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0a863f29fd0ec473891c942e74800b') in 0.014001 seconds
+  Import took 0.019902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.793845 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables.fbx
+  artifactKey: Guid(197f73f0049303a44a75c7d15b1fe512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables.fbx using Guid(197f73f0049303a44a75c7d15b1fe512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551ea00b39345d5c1ba4163629aed774') in 0.034929 seconds
+  Import took 0.041080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002941 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables.fbx
+  artifactKey: Guid(197f73f0049303a44a75c7d15b1fe512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables.fbx using Guid(197f73f0049303a44a75c7d15b1fe512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551ea00b39345d5c1ba4163629aed774') in 0.040697 seconds
+  Import took 0.047086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.528603 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables.fbx
+  artifactKey: Guid(197f73f0049303a44a75c7d15b1fe512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables.fbx using Guid(197f73f0049303a44a75c7d15b1fe512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958a08c8fe99183cc8252788a3b0bdd3') in 0.043955 seconds
+  Import took 0.049754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.613714 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables1.fbx
+  artifactKey: Guid(3179304cb37e5a84b867f714e9c5568c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables1.fbx using Guid(3179304cb37e5a84b867f714e9c5568c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71affc8bf209cbad3d664515cb53e80') in 0.015870 seconds
+  Import took 0.022070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.924562 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables1.fbx
+  artifactKey: Guid(3179304cb37e5a84b867f714e9c5568c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables1.fbx using Guid(3179304cb37e5a84b867f714e9c5568c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebe12db0f0ae46263c15873c242bcdc') in 0.014892 seconds
+  Import took 0.020869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.977091 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables1.fbx
+  artifactKey: Guid(3179304cb37e5a84b867f714e9c5568c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables1.fbx using Guid(3179304cb37e5a84b867f714e9c5568c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b0d90c52f6cc88ca5b4eee80a9a9eb') in 0.041295 seconds
+  Import took 0.047388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.363145 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables2.fbx
+  artifactKey: Guid(5a5072e613865f94d9d085a6a30303ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables2.fbx using Guid(5a5072e613865f94d9d085a6a30303ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39572d3791d5551f0c90a9e5384a4825') in 0.019176 seconds
+  Import took 0.026115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables4.fbx
+  artifactKey: Guid(1aedaa00cea653c4ebab85c49509d341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables4.fbx using Guid(1aedaa00cea653c4ebab85c49509d341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20dc868a50538b789f7e040ad519a8a9') in 0.028222 seconds
+  Import took 0.034664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables3.fbx
+  artifactKey: Guid(3eb93492d830c1941b4c1be9758994cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables3.fbx using Guid(3eb93492d830c1941b4c1be9758994cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dee806068ebe75c97ae6d503d5f37aa') in 0.025338 seconds
+  Import took 0.031408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.056328 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables2.fbx
+  artifactKey: Guid(5a5072e613865f94d9d085a6a30303ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables2.fbx using Guid(5a5072e613865f94d9d085a6a30303ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecb075dc759c3e499b1499053f4b865') in 0.018037 seconds
+  Import took 0.025535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.105685 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables3.fbx
+  artifactKey: Guid(3eb93492d830c1941b4c1be9758994cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables3.fbx using Guid(3eb93492d830c1941b4c1be9758994cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd81decd51e5ae2d9cd08ed4d9ce4a77') in 0.014780 seconds
+  Import took 0.020776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.526182 seconds.
+  path: Assets/Models/Exterior/Toha Core/CoreCables4.fbx
+  artifactKey: Guid(1aedaa00cea653c4ebab85c49509d341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Exterior/Toha Core/CoreCables4.fbx using Guid(1aedaa00cea653c4ebab85c49509d341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ae4b3c0f4db7343b133a048ff859c2') in 0.023596 seconds
+  Import took 0.029251 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

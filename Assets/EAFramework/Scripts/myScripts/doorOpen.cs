@@ -23,7 +23,7 @@ namespace EAFramework
           unlockedColor = new Color(1f, 0.3f, 0f, 1f);
           openedColor = new Color(0f, 1f, 0f, 1f);
 
-          doorLock("Locked");
+          doorLock("Unlocked");
         }
 
         public void doorLock(string lockChange) {

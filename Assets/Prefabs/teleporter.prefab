@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1333545402}
   - component: {fileID: 1333545401}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Particle Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 4975382619107482074}
   - component: {fileID: 7173651802793084732}
   - component: {fileID: 8537235941174922924}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Teleporter_Ring
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -185,7 +185,7 @@ GameObject:
   - component: {fileID: 1490834594008784509}
   - component: {fileID: 1490834594008784508}
   - component: {fileID: 1490834594008784499}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4990,7 +4990,7 @@ GameObject:
   - component: {fileID: 1490834595155407951}
   - component: {fileID: 1490834595155407950}
   - component: {fileID: 244972317}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: EA Look --> Teleport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5067,7 +5067,7 @@ GameObject:
   - component: {fileID: 7918841940084621414}
   - component: {fileID: 4175629254676711911}
   - component: {fileID: 8064762221812817506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Teleporter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5149,7 +5149,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3059142744228574539}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: teleporter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5165,7 +5165,7 @@ Transform:
   m_GameObject: {fileID: 2395794822943567857}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10.5, y: 0.000000059604645, z: 2.76}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
   m_Children:
   - {fileID: 7918841940084621414}
   - {fileID: 4975382619107482074}
