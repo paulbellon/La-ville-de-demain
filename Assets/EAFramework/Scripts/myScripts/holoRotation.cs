@@ -23,7 +23,6 @@ namespace EAFramework {
         endColor = new Color(1f, 0.17f, 0f, 1f);
       }
 
-      // Update is called once per frame
       void Update()
       {
           if (audioSource.isPlaying) {

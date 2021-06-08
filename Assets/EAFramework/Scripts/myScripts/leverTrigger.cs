@@ -6,16 +6,19 @@ namespace EAFramework
     {
         public GameObject lever, leverSystem, door;
 
+        public AudioClip[] leverSounds;
+
         private Animator leverAnim, doorAnim;
         private Light leverLight;
         private Color upColor, downColor;
+        private AudioSource leverSound;
 
         public string leverPosition;
 
         void Start() {
           leverAnim = lever.GetComponentInChildren<Animator>();
           doorAnim = door.GetComponentInChildren<Animator>();
-
+          leverSound = this.GetComponent<AudioSource>();
 
           leverLight = lever.GetComponentInChildren<Light>();
 
@@ -39,18 +42,22 @@ namespace EAFramework
         {
           if (leverPosition == "Up") {
             leverAnim.Play("Lever_Down");
+            leverSound.clip = leverSounds[0];
+            leverSound.Play();
             //door.GetComponentInChildren<doorOpen>().doorLock("Unlocked");
             setLeverPos("Down");
           } else {
             leverAnim.Play("Lever_Up");
+            leverSound.clip = leverSounds[1];
+            leverSound.Play();
             setLeverPos("Up");
           }
 
           leverSystem.GetComponentInChildren<leverCombination>().goodCode();
-          
+
           if (leverSystem.GetComponentInChildren<leverCombination>().leverCode == "Resolved")
           {
-            door.GetComponentInChildren<doorOpen>().doorLock("Unlocked");
+            door.GetComponentInChildren<doorLocked>().doorLock("Unlocked");
           }
         }
     }

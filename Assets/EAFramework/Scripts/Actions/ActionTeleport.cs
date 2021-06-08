@@ -19,12 +19,15 @@ namespace EAFramework
         private OVRCameraRig camRig;
         private ParticleSystem particles;
         private Collider cameraCollide;
+        private AudioSource teleporterSound;
 
         void Start() {
            camRig = FindObjectOfType<OVRCameraRig>();
 
            particles = eventSource.GetComponentInChildren<ParticleSystem>();
            cameraCollide = camRig.GetComponent<Collider>();
+
+           teleporterSound = this.gameObject.GetComponent<AudioSource>();
 
         }
 
@@ -46,6 +49,7 @@ namespace EAFramework
             if (camRig != null && target != null)
             {
                 camRig.transform.position = target.transform.position;
+                teleporterSound.Play();
 
                 if (useTargetOrientation)
                 {

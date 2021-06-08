@@ -11,6 +11,7 @@ namespace EAFramework
         private Material buttonMaterial;
         private Light doorLight;
         private Color lockedColor, unlockedColor, openedColor;
+        private AudioSource doorSound;
 
         public string lockState;
 
@@ -18,6 +19,7 @@ namespace EAFramework
           anim = door.GetComponent<Animator>();
           buttonMaterial = button.GetComponent<Renderer>().material;
           doorLight = button.GetComponentInChildren<Light>();
+          doorSound = door.GetComponent<AudioSource>();
 
           lockedColor = new Color(1f, 0f, 0f, 1f);
           unlockedColor = new Color(1f, 0.3f, 0f, 1f);
@@ -45,6 +47,7 @@ namespace EAFramework
         {
           if (lockState == "Unlocked") {
             anim.Play("Open");
+            doorSound.Play();
             doorLock("Opened");
           }
         }

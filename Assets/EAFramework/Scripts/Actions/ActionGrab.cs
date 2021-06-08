@@ -65,7 +65,7 @@ namespace EAFramework
 
                 if (bringToDistance > 0)
                 {
-                    rb.transform.position = cam.transform.TransformPoint(new Vector3(0.1f, -0.1f, bringToDistance));
+                    rb.transform.position = cam.transform.TransformPoint(new Vector3(0.2f, -0.2f, bringToDistance));
                 }
 
                 //FixedJoint joint = cam.AddComponent<FixedJoint>();

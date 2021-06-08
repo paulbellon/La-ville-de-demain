@@ -28,7 +28,7 @@ namespace EAFramework
           leverCode = "Resolved";
           if (leverCode == "Resolved")
           {
-             door.GetComponentInChildren<doorOpen>().doorLock("Unlocked");
+             door.GetComponentInChildren<doorLocked>().doorLock("Unlocked");
           } else {
             return;
           }

@@ -6,19 +6,29 @@ namespace EAFramework
 {
   public class cellTarget : ActionGrab
   {
+    public GameObject energyWall, lightning, door, generator;
 
-    public GameObject energyWall, lightning, door;
-
-    private Material engravedLight;
+    private Material engravedLight, engravedLight2;
     private Color energyOn, energyOn2;
+
+    public AudioClip[] energySounds;
+    private AudioSource energySound;
+    private AudioSource cellSound;
 
     private string energyLevel;
 
       void Start()
       {
         engravedLight = energyWall.GetComponent<Renderer>().material;
+        engravedLight2 = generator.GetComponent<Renderer>().material;
         energyOn = new Color(0f, 0.25f, 1f, 0f);
         energyLevel = "Off";
+
+        energySound = this.GetComponent<AudioSource>();
+        energySound.clip = energySounds[0];
+        energySound.Play();
+
+        cellSound = rb.gameObject.GetComponent<AudioSource>();
       }
 
       void Update()
@@ -29,6 +39,7 @@ namespace EAFramework
         if (energyLevel == "On")
         {
            engravedLight.SetColor("_EmissionColor", energyOn2);
+           engravedLight2.SetColor("_EmissionColor", energyOn2);
         }
       }
 
@@ -39,8 +50,12 @@ namespace EAFramework
           rb.transform.position = eventSource.transform.position;
           rb.transform.rotation = Quaternion.identity;
           rb.isKinematic = true;
+          cellSound.Play();
 
           energyLevel = "On";
+
+          energySound.clip = energySounds[1];
+          energySound.Play();
 
           lightning.SetActive(true);
 
